@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=battery
+*Date=02:39:39
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;37.9977;-25.6011;0;Bottom;TXT1
+2;;;37.9977;-1.75333;0;Bottom;TXT1
+3;;;9.19972;-6.97893;0;Top;Pad11
+4;;THT;37.9747;-23.5616;0;Bottom;J3
+5;;THT;12.005;-4.4462;0;Bottom;J2
+6;;;36.0501;-23.5691;0;Bottom;Via1
+7;;;40.8086;-4.4415;0;Top;Pad16
+8;;;9.1995;-23.5691;0;Top;Pad6
+9;;;37.9977;-25.6011;0;Bottom;TXT1
+10;;;9.19972;-4.4415;0;Top;Pad10
+11;;;9.19565;-21.0265;0;Top;Pad7
+12;;;12.005;-1.75333;0;Bottom;TXT1
+13;;;12.005;-25.6011;0;Bottom;TXT1
+14;;battcom_20mm_pth;26.1649;-13.9672;0;Bottom;BAT1
+15;;;3.07015;-6.98452;0;Top;Pad2
+16;;;18.4679;-13.6067;0;Bottom;TXT1
+17;;;18.4679;-13.6067;0;Bottom;TXT1
+18;;;40.8046;-21.0265;0;Top;Pad14
+19;;;12.001;-25.6011;0;Bottom;TXT1
+20;;;40.7827;-23.5691;0;Top;Pad12
+21;;;33.7079;-13.6067;0;Bottom;TXT1
+22;;;3.08335;-21.0203;0;Top;Pad1
+23;;;33.7079;-13.6067;0;Bottom;TXT1
+24;;THT;37.9695;-4.4462;0;Bottom;J4
+25;;;12.005;-1.75333;0;Bottom;TXT1
+26;;THT;11.9901;-23.5616;0;Bottom;J1
+27;;;40.8086;-6.97893;0;Top;Pad15
+28;;;46.9502;-6.98452;0;Top;Pad4
+29;;;16.0501;-4.4415;0;Bottom;Via2
+30;;;37.9977;-1.75333;0;Bottom;TXT1
+31;;;46.9502;-21.0049;0;Top;Pad3
