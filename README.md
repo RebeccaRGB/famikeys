@@ -129,7 +129,7 @@ To reverse this process, do the same thing but select your saved `arduino.hex` f
 ### Using Forward Translator Mode
 Connect a Famicom keyboard to the Arduino. Connect the Arduino to a modern device over USB. Use the Famicom keyboard as a USB keyboard. Most of the key mappings are obvious; the not-so-obvious ones are:
 
-* - = ラ maps to - _
+* \- = ラ maps to - _
 * ^ リ maps to = +
 * ¥ ル maps to \ |
 * STOP maps to Pause/Break if pin 2 / switch D is OPEN or Backspace if pin 2 / switch D is CLOSED
@@ -271,7 +271,7 @@ Connect a USB keyboard to the USB Host Shield. Connect the Arduino to the Famico
 * STOP can be accessed using F10, Pause/Break, or End
 * カナ (KANA) can be accessed using Scroll Lock or Page Up
 * ン ␣ can be accessed using Print Screen or Page Down
-* - = ラ can be accessed using - _
+* \- = ラ can be accessed using - _
 * ^ リ can be accessed using = +
 * ¥ ル can be accessed using \ | or F11
 * @ レ can be accessed using ` ~ or F12
