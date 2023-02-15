@@ -1,0 +1,32 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=fkaudio
+*Date=09:41:08
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100nF;100 mil [THT, multilayer];18.3177;-2.61804;0;Bottom;103
+2;220;THT;17.0921;-10.2812;-90;Bottom;20K
+3;220;THT;16.8098;-35.2592;-90;Bottom;1M
+4;;4Ucon 08780 [THT];27.8837;-8.65341;180;Bottom;READ
+5;100nF;100 mil [THT, multilayer];14.2125;-31.4532;90;Bottom;103
+6;;;2.24804;-21.905;-90;Bottom;TXT1
+7;;;9.40754;-38.4379;0;Bottom;Hole1
+8;220;THT;19.6267;-10.2651;-90;Bottom;100K
+9;;;9.40754;-5.51206;0;Bottom;Hole2
+10;;300 mil [THT];14.5117;-11.4987;-90;Bottom;D1
+11;;db15;6.27724;-21.9771;0;Bottom;DA15F
+12;;;5.00317;-10.5768;0;Bottom;Via2
+13;220;THT;19.366;-35.2645;-90;Bottom;1K
+14;;4Ucon 08780 [THT];27.8837;-35.3705;180;Bottom;WRITE
+15;;;4.741;-21.9186;-90;Bottom;TXT1
+16;;DIP (Dual Inline) [THT];22.1922;-21.9678;-90;Bottom;4069
+17;100nF;100 mil [THT, multilayer];14.4983;-3.903;90;Bottom;103

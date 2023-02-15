@@ -1,0 +1,33 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=fcextender
+*Date=09:45:54
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;20.1529;-28.9202;0;Top;J24
+2;;THT;20.1528;-28.9202;180;Bottom;J18
+3;;;39.229;-16.9839;0;Bottom;TXT1
+4;;THT;58.2528;-4.08466;0;Top;J13
+5;;THT;20.1528;-4.08465;180;Bottom;J10
+6;;THT;20.1529;-4.08466;0;Top;J16
+7;;THT;58.2528;-28.9202;0;Bottom;J20
+8;;THT;58.2527;-28.9202;180;Bottom;J19
+9;;THT;58.2527;-4.08465;180;Top;J14
+10;;THT;20.1528;-4.08465;180;Top;J15
+11;;THT;20.1528;-28.9202;180;Top;J23
+12;;;39.229;-16.9839;0;Bottom;TXT1
+13;;THT;58.2528;-4.08466;0;Bottom;J12
+14;;THT;20.1529;-4.08466;0;Bottom;J9
+15;;THT;58.2527;-4.08465;180;Bottom;J11
+16;;THT;20.1529;-28.9202;0;Bottom;J17
+17;;THT;58.2528;-28.9202;0;Top;J21
+18;;THT;58.2527;-28.9202;180;Top;J22
